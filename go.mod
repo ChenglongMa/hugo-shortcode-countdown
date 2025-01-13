@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-shortcode-starter
+module github.com/ChenglongMa/wowchemy-shortcode-countdown
 
-go 1.15
+go 1.23.4
