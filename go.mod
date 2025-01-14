@@ -1,3 +1,3 @@
-module github.com/ChenglongMa/wowchemy-shortcode-countdown
+module github.com/ChenglongMa/hugo-shortcode-countdown
 
 go 1.23.4
